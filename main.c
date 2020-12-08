@@ -2,7 +2,6 @@
 #include<conio.h>
 int  main()
 {	
-	
 int a,b,c,d,e,j,l,p,t,r,v,y,f;
 FILE *fp;
 char q[30];
